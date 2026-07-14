@@ -16,3 +16,5 @@ To make the bypass stand-alone, the binary byte instructions were permanently mo
 
 The resulting executable functions flawlessly without validation prompts:
 ![Native Bypass](/3_native_bypass.jpg)
+
+
