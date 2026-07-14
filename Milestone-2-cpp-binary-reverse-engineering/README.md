@@ -15,6 +15,6 @@ By attaching x64dbg to the live process and setting hardware breakpoints on the 
 To make the bypass stand-alone, the binary byte instructions were permanently modified from a `JE` (Jump if Equal) opcode `0x74` to a `JNE` (Jump if Not Equal) opcode `0x75`.
 
 The resulting executable functions flawlessly without validation prompts:
-![Native Bypass](/3_native_bypass.jpg)
-Milestone-2-cpp-binary-reverse-engineering/1_static_analysis.jpg
+![Native Bypass](/Milestone-2-cpp-binary-reverse-engineerin/3_native_bypass.jpg)
+
 
